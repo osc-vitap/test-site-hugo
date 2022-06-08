@@ -1,0 +1,38 @@
+baseurl = ""
+title = "Chandra Kiran"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[params]
+  author = "Chandra Kiran"
+  info = "DevOps Lead"
+  description = "CK's landing page"
+  keywords = "landing,personal.developer"
+  avatarurl = "images/avatar.jpg"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/ackr-8/"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
+
+# Menu links
+[[menu.main]]
+  name = "OSC Home"
+  weight = 1
+  url  = "https://oscvitap.org"
+[[menu.main]]
+  name = "Discord Invite"
+  weight = 2
+  url = "https://discord.gg/aY7rgx2NEE"
