@@ -26,13 +26,3 @@ defaultcontentlanguage = "en"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
   url = "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
-
-# Menu links
-[[menu.main]]
-  name = "OSC Home"
-  weight = 1
-  url  = "https://oscvitap.org"
-[[menu.main]]
-  name = "Discord Invite"
-  weight = 2
-  url = "https://discord.gg/aY7rgx2NEE"
