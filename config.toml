@@ -5,8 +5,8 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 
 [params]
-  author = "Chandra Kiran"
-  info = "DevOps Lead"
+  author = "Aryan Mohanty"
+  info = "developer"
   description = "CK's landing page"
   keywords = "landing,personal.developer"
   avatarurl = "images/avatar.jpg"
