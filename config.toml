@@ -1,13 +1,13 @@
 baseurl = ""
-title = "Akhil Tulluri"
+title = "Patil Krishna Reddy"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
 [params]
-  author = "Akhil Tulluri"
-  info = "Technical Lead"
-  description = "Akhil's landing page"
+  author = "Patil Krishna Reddy"
+  info = "Developer"
+  description = "PKR's landing page"
   keywords = "landing,personal.developer"
   avatarurl = "images/avatar.jpg"
   favicon_32 = "images/favicon-32x32.png"
@@ -20,4 +20,4 @@ defaultcontentlanguage = "en"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/officialakhil/"
+  url = "https://github.com/Krishna1081"
