@@ -1,12 +1,12 @@
 baseurl = ""
-title = "Chandra Kiran"
+title = "Sai eeshwar"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
 [params]
-  author = "Chandra Kiran"
-  info = "DevOps Lead"
+  author = "Eeshwar"
+  info = "Event Lead"
   description = "CK's landing page"
   keywords = "landing,personal.developer"
   avatarurl = "images/avatar.jpg"
@@ -20,7 +20,7 @@ defaultcontentlanguage = "en"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/ackr-8/"
+  url = "https://github.com/EESH-843"
 [[params.social]]
   name = "Linkedin"
   icon = "fa fa-linkedin fa-2x"
