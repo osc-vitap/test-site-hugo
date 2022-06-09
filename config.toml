@@ -1,13 +1,13 @@
 baseurl = ""
-title = "Chandra Kiran"
+title = "Akhil Tulluri"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
 [params]
-  author = "Chandra Kiran"
-  info = "DevOps Lead"
-  description = "CK's landing page"
+  author = "Akhil Tulluri"
+  info = "Technical Lead"
+  description = "Akhil's landing page"
   keywords = "landing,personal.developer"
   avatarurl = "images/avatar.jpg"
   favicon_32 = "images/favicon-32x32.png"
@@ -20,9 +20,4 @@ defaultcontentlanguage = "en"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/ackr-8/"
-[[params.social]]
-  name = "Linkedin"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 3
-  url = "https://www.linkedin.com/in/chandra-kiran-reddy-avula-69038a123/"
+  url = "https://github.com/officialakhil/"
